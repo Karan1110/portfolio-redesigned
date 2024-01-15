@@ -1,4 +1,4 @@
-import List from "../components/ui/List"
+import List from "../../ui/List"
 import { Eye, ThumbsUp, User, Video } from "lucide-react"
 import { FC } from "react"
 
