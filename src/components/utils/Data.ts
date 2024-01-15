@@ -42,7 +42,7 @@ export const projectCard: IProjectSectionCardData[] = [
     title: "Jira Clone",
     techStack:
       "Node, Express, PostgreSQL, Sequelize, NodeMailer, Toad-Scheduler, JWT, Jest, Supertest",
-    imageUrl: "jira-lite.png",
+    imageUrl: "jira-clone.webp",
     href: "https://github.com/karan1110/my-jira-clone",
   },
   {
@@ -57,7 +57,7 @@ export const projectCard: IProjectSectionCardData[] = [
     id: 4,
     title: " Zoom Clone",
     techStack: "Nodejs, Express, WebRTC, Tailwind CSS",
-    imageUrl: "zoom.webp",
+    imageUrl: "zoom-card.avif",
     href: "https://github.com/karan1110/my-zoom-clone",
   },
 ]
