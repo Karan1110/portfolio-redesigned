@@ -1,9 +1,9 @@
 import "./globals.css"
 import type { Metadata } from "next"
-import SideBar from "@/components/Sidebar"
-import Navbar from "@/components/Navbar"
-import ContactForm from "@/components/ContactForm"
-import { ContactFormProvider, MenuProvider } from "@/components/Provider"
+import SideBar from "../components/Sidebar"
+import Navbar from "../components/Navbar"
+import ContactForm from "../components/ContactForm"
+import { ContactFormProvider, MenuProvider } from "../components/Provider"
 import { Toaster } from "react-hot-toast"
 
 export const metadata: Metadata = {

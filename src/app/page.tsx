@@ -1,8 +1,8 @@
-import Cover from "@/components/Cover"
-import CardSection from "@/components/sections/CardSection"
-import MoreProjects from "@/components/sections/MoreProjects"
-import Hero from "@/components/sections/Hero"
-import ProjectCardSection from "@/components/sections/ProjectCardSection"
+import Cover from "../components/Cover"
+import CardSection from "../components/sections/CardSection"
+import MoreProjects from "../components/sections/MoreProjects"
+import Hero from "../components/sections/Hero"
+import ProjectCardSection from "../components/sections/ProjectCardSection"
 import {
   backendCard,
   databaseCard,
@@ -12,7 +12,7 @@ import {
   otherCards,
   projectCard,
   web3Cards,
-} from "@/components/utils/Data"
+} from "../components/utils/Data"
 
 export default function Home() {
   return (
